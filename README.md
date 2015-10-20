@@ -1,2 +1,5 @@
 # kouceng-chrome-ext
-Kocaeli Üniversity Computer Engineering Announcements Extension
+Kocaeli University Computer Engineering - Announcements [Chrome Extension]
+
+Announcement Source: http://www.bilalbaraz.com/app/duyuru.php
+Main Site: http://bilgisayar.kocaeli.edu.tr
