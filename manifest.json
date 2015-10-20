@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Kocaeli Üniversitesi Bilgisayar Mühendisliği",
+  "description": "Bölüm Duyuru Eklentisi",
+  "version": "1.0",
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+	"http://www.bilalbaraz.com/app/",
+	"http://bilalbaraz.com/app/"
+  ]
+}
